@@ -1,9 +1,8 @@
-
-🌍 Conversor de Moedas 💸
+#🌍 Conversor de Moedas 💸
 
 Este é um projeto simples em Java que permite a conversão de moedas entre Reais (BRL) e Dólares Americanos (USD). O programa solicita que o usuário informe o valor desejado em uma das duas moedas e, em seguida, realiza a conversão com base em uma taxa de câmbio pré-definida. 💰✨
 
-🚀 Funcionalidades:
+#🚀 Funcionalidades:
 
 Conversão de Moeda: Converta entre Reais para Dólares ou Dólares para Reais facilmente! 🌎
 
